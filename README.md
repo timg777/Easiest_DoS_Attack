@@ -2,6 +2,7 @@
  Simple way to DoS
  
  # Author isn't responsible for your safety!
+ Only for Educational aims!
  Test your any network for strain.
 
 # How to use?
